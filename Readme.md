@@ -31,15 +31,11 @@
 ---
 
 ## 📊 My Github Stats
-**Github Streak:**
-<p align="center">
-  
-| <a href="https://github.com/KshitijxFrl/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=KshitijxFrl&show_icons=true&theme=cobalt)" alt="KshitijxFrl github stats" /></a> | <a href="https://github.com/KshitijxFrl/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KshitijxFrl&layout=compact" /></a> |
+|<img align="left" src="https://github-readme-stats.vercel.app/api?username=KshitijxFrl&show_icons=true&theme=radical" /> |<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KshitijxFrl&layout=compact)" /></a> |
 | ------------- | -------------|
 
-</p>
 
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 
 <br/>
