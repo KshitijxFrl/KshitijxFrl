@@ -5,7 +5,7 @@
 <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/Python-3.10-FF1493.svg"></a>
 
 
-## 🚀 Languages and Tools I use:
+## 🚀 My Primary Tech Stack:
 
 <p align="left"> 
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a>
