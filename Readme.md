@@ -25,11 +25,10 @@
     <a href="https://ubuntu.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/ubuntu--v1.png"/> </a>          
 </p>
 
-## Web Dev Kit:
+## Backend:
 <a href="https://react.dev/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript"/> </a>
-<a href="https://react.dev/" target="_blank"> <img src="https://icons8.com/icon/20909/html-5"/> </a>
-<a href="https://react.dev/" target="_blank"> <img src="https://icons8.com/icon/21278/css3"/> </a>
-<a href="https://react.dev/" target="_blank"> <img src="https://icons8.com/icon/123603/react-native"/> </a>
+<a href="https://react.dev/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native"/> </a>
+<a href="https://react.dev/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/django"/> </a>
 
 <br/>
 
