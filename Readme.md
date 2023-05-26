@@ -25,6 +25,8 @@
     <a href="https://ubuntu.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/ubuntu--v1.png"/> </a>          
 </p>
 
+## Full Stack:
+
 <br/>
 
 ---
