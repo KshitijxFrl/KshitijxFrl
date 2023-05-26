@@ -25,7 +25,7 @@
     <a href="https://ubuntu.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/ubuntu--v1.png"/> </a>          
 </p>
 
-## Full Stack:
+## Web Dev Kit:
 <a href="https://www.python.org" target="_blank"> <img src="https://icons8.com/icon/108784/javascript"/> </a>
 <a href="https://www.python.org" target="_blank"> <img src="https://icons8.com/icon/20909/html-5"/> </a>
 <a href="https://www.python.org" target="_blank"> <img src="https://icons8.com/icon/21278/css3"/> </a>
