@@ -18,7 +18,7 @@
 ## DataBase 🚁
 <p align="left"> 
 <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>         
-<a style="padding-right:8px;" target="_blank"> <img src="https://icons8.com/icon/nn5BRPhPpKAT/mongodb-a-cross-platform-document-oriented-database-program"/> </a>  
+<a  href="https://icons8.com/icon/nn5BRPhPpKAT/mongodb-a-cross-platform-document-oriented-database-program"><a href="https://icons8.com"></a></a>  
 </p>
 
 ## Operating System 💻
