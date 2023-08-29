@@ -28,6 +28,22 @@
   
 </p>
 
+## Developmental Tools 🛠
+<p align="left"> 
+     <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> </a>
+     <a href="https://jupyter.org/" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/jupyter.png"/> </a>
+     <a href="https://www.anaconda.com/" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/anaconda--v2.png"/> </a>
+     <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" 
+     alt="postman" width="45" height="45"/> </a>
+     <a href="https://www.docker.com/" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/docker.png"/> </a>
+     <a href="https://github.com/" target="_blank"> <img src="https://img.icons8.com/ios-glyphs/48/000000/github.png"/> </a>     
+     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>
+     
+</p>
+
+## Library and Frameworks 📖
+
+
 <p align="left"> 
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a>
     <a href="https://sourceforge.net/projects/mingw/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> </a>  
