@@ -42,6 +42,9 @@
 </p>
 
 **⭐Library and Frameworks** 📖
+<pre>
+</pre>
+
 <p align="left"> 
 ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
 </p>
