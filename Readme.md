@@ -44,10 +44,8 @@
 **⭐Library and Frameworks** 📖
 <pre>
 </pre>
-
-<p align="left"> 
 ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
-</p>
+
 
 ## Backend:
 <a href="https://react.dev/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript"/> </a>
