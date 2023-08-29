@@ -5,7 +5,15 @@
 <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/Python-3.10-FF1493.svg"></a>
 
 
-## 🚀 My Primary Tech Stack:
+# 🚀 My Primary Tech Stack
+
+## Programming languages 🕹
+<p align="left"> 
+    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a>
+    <a href="https://sourceforge.net/projects/mingw/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> </a>
+    <a href="https://react.dev/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript"/> </a>
+  
+</p>
 
 <p align="left"> 
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a>
