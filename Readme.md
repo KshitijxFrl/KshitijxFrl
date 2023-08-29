@@ -15,6 +15,13 @@
   
 </p>
 
+## Operating System 💻
+<p align="left"> 
+    <a href="https://www.microsoft.com/en-in/windows?r=1" target="_blank"> <img src="https://img.icons8.com/color/48/000000/windows-10.png"/> </a>
+    <a href="https://ubuntu.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/ubuntu--v1.png"/> </a>          
+  
+</p>
+
 <p align="left"> 
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a>
     <a href="https://sourceforge.net/projects/mingw/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> </a>  
