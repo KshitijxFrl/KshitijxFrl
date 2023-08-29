@@ -42,9 +42,11 @@
 </p>
 
 **⭐Library and Frameworks** 📖
-<pre>
-</pre>
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
+<p align="left"> 
+    ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
+     
+</p>
+
 
 
 ## Backend:
