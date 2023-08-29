@@ -21,7 +21,7 @@
 <a style="padding-right:8px;" target="_blank"> <img src="https://img.icons8.com/external-tal-revivo-green-tal-revivo/36/external-mongodb-a-cross-platform-document-oriented-database-program-logo-green-tal-revivo.png"/> </a>
 </p>
 
-## Operating System 💻
+## Operating Systems 💻
 <p align="left"> 
     <a href="https://www.microsoft.com/en-in/windows?r=1" target="_blank"> <img src="https://img.icons8.com/color/48/000000/windows-10.png"/> </a>
     <a href="https://ubuntu.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/ubuntu--v1.png"/> </a>          
