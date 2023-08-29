@@ -15,6 +15,12 @@
   
 </p>
 
+## DataBase 🚁
+<p align="left"> 
+<a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>         
+  
+</p>
+
 ## Operating System 💻
 <p align="left"> 
     <a href="https://www.microsoft.com/en-in/windows?r=1" target="_blank"> <img src="https://img.icons8.com/color/48/000000/windows-10.png"/> </a>
