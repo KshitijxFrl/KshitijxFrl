@@ -15,20 +15,20 @@
   
 </p>
 
-## ⭐ DataBase 🚁
+**⭐DataBase** 🚁
 <p align="left"> 
 <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>         
 <a style="padding-right:8px;" target="_blank"> <img src="https://img.icons8.com/external-tal-revivo-green-tal-revivo/36/external-mongodb-a-cross-platform-document-oriented-database-program-logo-green-tal-revivo.png"/> </a>
 </p>
 
-## ⭐ Operating Systems 💻
+**⭐Operating Systems** 💻
 <p align="left"> 
     <a href="https://www.microsoft.com/en-in/windows?r=1" target="_blank"> <img src="https://img.icons8.com/color/48/000000/windows-10.png"/> </a>
     <a href="https://ubuntu.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/ubuntu--v1.png"/> </a>          
   
 </p>
 
-## ⭐ Developmental Tools 🛠
+**⭐Developmental Tools** 🛠
 <p align="left"> 
      <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> </a>
      <a href="https://jupyter.org/" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/jupyter.png"/> </a>
@@ -41,7 +41,7 @@
      
 </p>
 
-## ⭐ Library and Frameworks 📖
+**⭐Library and Frameworks** 📖
 ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
 ## Backend:
 <a href="https://react.dev/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript"/> </a>
