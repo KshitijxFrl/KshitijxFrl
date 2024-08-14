@@ -17,7 +17,7 @@
 
 **⭐DataBase** 🚁
 <p align="left"> 
-<a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/?size=50&id=38561&format=png&color=000000"/> </a>         
+<a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/?size=30&id=38561&format=png&color=000000"/> </a>         
 <a style="padding-right:8px;" target="_blank"> <img src="https://img.icons8.com/external-tal-revivo-green-tal-revivo/36/external-mongodb-a-cross-platform-document-oriented-database-program-logo-green-tal-revivo.png"/> </a>
 </p>
 
