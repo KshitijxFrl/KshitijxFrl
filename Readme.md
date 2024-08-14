@@ -64,7 +64,7 @@
 ---
 
 ## 📊 My Github Stats
-|<img align="left" width="90%" src="https://github-readme-stats.vercel.app/api?username=KshitijxFrl&show_icons=true&theme=radical" /> |<img align="left" width="90%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KshitijxFrl&layout=compact)" /></a> |
+|<img align="left" width="90%" src="https://github-readme-stats.vercel.app/api?username=KshitijxFrl&show_icons=true&theme=radical" />|
 | ------------- | -------------|
 
 
