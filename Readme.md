@@ -64,8 +64,8 @@
 ---
 
 ## 📊 My Github Stats
-|<img align="left" width="90%" src="https://github-readme-stats.vercel.app/api?username=KshitijxFrl&show_icons=true&theme=radical" />|
-| ------------- | -------------|
+|<img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=KshitijxFrl&show_icons=true&theme=radical" />|
+
 
 
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
