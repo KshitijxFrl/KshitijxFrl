@@ -69,13 +69,6 @@
 
 
 <br/>
-<br/>
-<br/>
-
-<div></div>
-<br />
-<p></p>
-<br />
 
 
 ## Connect with me:
