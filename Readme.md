@@ -5,13 +5,19 @@
 <h1 align="center">Kshitij Singh</h1>
 
 <p align="center">
-  Building AI systems, GPU infrastructure, and machine learning projects from scratch.
+  <code>booting profile interface...</code>
 </p>
 
-<p align="center">
-  <a href="https://kshitijxfrl.github.io/irwWEB/">IRONWILL</a>
-  ·
-  <a href="https://www.linkedin.com/in/kshitij-singh-b398a223b/">LinkedIn</a>
-  ·
-  <a href="https://twitter.com/KshitijxFRL">Twitter</a>
-</p>
+<div align="center">
+
+```text
+┌──────────────────────────────────────────────────────────────┐
+│                    SYSTEM OVERVIEW                           │
+├──────────────────────────────────────────────────────────────┤
+│ USER        : Kshitij Singh                                  │
+│ STATUS      : Online                                         │
+│ FOCUS       : AI Systems • GPU Infrastructure • ML           │
+│ BUILD MODE  : From Scratch                                   │
+│ ACTIVE NODE : IRONWILL                                       │
+│ SIGNAL      : Learning deeply, building directly             │
+└──────────────────────────────────────────────────────────────┘
